@@ -117,6 +117,14 @@
 		text-align: center;
 	}
 
+	section p {
+		text-align: justify;
+	}
+
+	article p {
+		text-align: justify;
+	}
+
 	header p {
 		color: #999999;
 		font-size: 1.25em;
